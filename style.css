@@ -1,0 +1,27 @@
+body {
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    
+
+}
+#Rock {
+    color: black;
+}
+
+#board{
+    border: 2px solid white;
+    padding: 25px;
+    display: ruby;
+    float: right;
+    position: relative;
+}#scores{
+    padding-right: 25px;
+}#results{
+    padding-left: 25px;
+}
+
